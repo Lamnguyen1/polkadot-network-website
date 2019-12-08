@@ -6,8 +6,9 @@
     "zh-cn": "zh-cn",
     "ko": "ko",
     "es": "es",
-    "tr": "tr"
-  },
+    "tr": "tr",
+    "vn": "vn"
+},
   "get_filter": {
     "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es,hash-tr]\"",
     "ru": "filter=\"tags:hash-ru\"",
@@ -15,8 +16,9 @@
     "zh-cn": "filter=\"tags:hash-zh-cn\"",
     "ko": "filter=\"tags:hash-ko\"",
     "es": "filter=\"tags:hash-es\"",
-    "tr": "filter=\"tags:hash-tr\""
-  },
+    "tr": "filter=\"tags:hash-tr\"",
+    "vn": "filter=\"tags:hash-vn\""
+ },
   "get_related_filter": {
     "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es,hash-tr]\"",
     "ru": "filter=\"id:-{{id}}+tags:hash-ru\"",
@@ -24,8 +26,9 @@
     "zh-cn": "filter=\"id:-{{id}}+tags:hash-zh-cn\"",
     "ko": "filter=\"id:-{{id}}+tags:hash-ko\"",
     "es": "filter=\"id:-{{id}}+tags:hash-es\"",
-    "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
-  },
+    "tr": "filter=\"id:-{{id}}+tags:hash-tr\"",
+    "vn": "filter=\"id:-{{id}}+tags:hash-vn\""
+ },
   "global.footer.from_the_blog": {
     "en": "From the blog"
   },
@@ -34,22 +37,25 @@
     "ru": "Заинтересован?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
     "es": "¿Quiere colaborar?",
-    "tr": "Katılmak ister misin?"
-  },
+    "tr": "Katılmak ister misin?",
+    "vn": "Bạn có muốn tham gia không?"
+ },
   "global.footer.join_community": {
     "en": "Join the Community",
     "ru": "Присоединяйтесь к сообществу",
     "ko": "폴카닷 커뮤니티에 합류하시고,",
     "es": "Únase a la comunidad",
-    "tr": "Topluluğa Katıl"
-  },
+    "tr": "Topluluğa Katıl",
+    "vn": "Hãy tham gia cộng đồng"
+ },
   "global.footer.learn": {
     "en": "or learn about how to {{build_link}}.",
     "ru": "или узнайте, как {{build_link}}",
     "ko": "{{build_link}}",
     "es": "o aprenda sobre cómo {{build_link}}.",
-    "tr": "veya geliştirmeyi öğren {{build_link}}."
-  },
+    "tr": "veya geliştirmeyi öğren {{build_link}}.",
+    "vn": "hoặc học hỏi về làm cách nào để {{build_link}}"
+ },
   "global.footer.learn.build_link": {
     "en": "build on Polkadot",
     "ru": "работать с Polkadot",
